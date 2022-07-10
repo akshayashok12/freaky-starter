@@ -3368,7 +3368,7 @@ span.red-color {
 }
 
 .w3l-banner-main .bannerhny-content {
-  background: url(https://scontent-frt3-1.xx.fbcdn.net/v/t39.30808-6/273605602_3071305686490242_8154503976818967147_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=qA7jPWnqPekAX9wxwnL&_nc_ht=scontent-frt3-1.xx&oh=00_AT-508rxYJMQXlcKXZ9vNl9yzfrTmO-zgUubEpw5pvCZkg&oe=62C32EB4) top;
+  background: url(assets\images\273605602_3071305686490242_8154503976818967147_n.jpg) top; 
   background-size: cover;
   background-attachment: fixed;
   position: relative;
